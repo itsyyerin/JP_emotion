@@ -1,0 +1,7 @@
+Collecting JPype1
+  Downloading JPype1-1.5.0-cp38-cp38-win_amd64.whl.metadata (5.0 kB)
+Requirement already satisfied: packaging in c:\users\kryrl\anaconda3\envs\python37\lib\site-packages (from JPype1) (23.2)
+Downloading JPype1-1.5.0-cp38-cp38-win_amd64.whl (351 kB)
+   ---------------------------------------- 351.7/351.7 kB 2.7 MB/s eta 0:00:00
+Installing collected packages: JPype1
+Successfully installed JPype1-1.5.0
