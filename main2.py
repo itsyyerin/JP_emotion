@@ -47,7 +47,7 @@ train_review
 
 
 # 한글 폰트 설정(.ttf파일 다운로드 후 실행)
-font_path = r'C:/jiye/JP_emotion/cmb10.ttf'
+font_path = r'./cmb10.ttf' 
 
 # train_review 리스트에 있는 모든 리뷰를 공백으로 구분하여 한 번에 WordCloud 생성
 wordcloud = WordCloud(font_path=font_path).generate(' '.join(train_review))
