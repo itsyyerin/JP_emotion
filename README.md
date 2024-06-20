@@ -11,3 +11,7 @@ this repository is for Korean NLP.  한국어 영화리뷰 감정분석
 4. predict_nlp.py : 예측
 
 4개의 파일로 나누어 놓았습니다.
+
+환경
+1. 아나콘다 python37 사용
+2. 아나콘다에서 python main2.py하면됨. (main.py는 쓰레기임 안씀)  
