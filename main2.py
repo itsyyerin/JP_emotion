@@ -11,7 +11,7 @@ from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.preprocessing.text import Tokenizer
 
 
-DATA_PATH = './DATA/' #데이터경로 설정.
+DATA_PATH = './DATA/' #데이터경로 설정
 print('파일 크기: ')
 for file in os.listdir(DATA_PATH):
   if 'txt' in file:
